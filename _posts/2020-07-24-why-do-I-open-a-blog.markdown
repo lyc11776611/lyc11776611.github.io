@@ -31,7 +31,7 @@ Placed here is one of my favorite quote:
 <center><br/>In this everchanging society, I must force myself to think: <br/>How should humanity develop? What can I do for this development? And how can I do this in highest efficiency? <br/> Every time I remind myself of those beautiful futures human can have, I feels the eager and passions inside my mind. I really hope that my own effort will be indispensable for the development of humanity! Only through contributing myself to a greater cause can I really fulfill my passions, and to become something great in our history.</center>
 <br/>
 
-<center>在这个变换莫测，前所未有的时代，我必须努力思考：<br/>人类的未来应该如何发展？我能为人类和社会做什么？我怎样才能最高效的做成这些事情？<br/>每当想到人类可能的美好未来，心情总是不由自主的澎湃起来。啊，我真的希望，自己的努力能成为人类通往更加幸福的道路上必不可缺的一环！只有努力成就大我，才能满足内心潮涌的澎湃，并在历史的潮流下留下伟大的印记！</center>
+<center>在这个变换莫测，前所未有的时代，我必须努力思考：<br/>人类的未来应该如何发展？我能为人类和社会做什么？我怎样才能最高效的做成这些事情？<br/>每当想到人类可能的美好未来，心情总是不由自主的澎湃起来。啊，我真的希望自己的努力能成为人类通往更加幸福的道路上必不可缺的一环！只有努力成就大我，才能满足内心潮涌的澎湃，并在历史的潮流下留下伟大的印记！</center>
 
 ## <center>Let's do it!</center>
 ## <center>共勉</center>
