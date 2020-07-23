@@ -10,14 +10,14 @@ blog_theme: dark # Or use dark
 
 # Profile information
 name: 李衍冲 (Yanchong Li)
-tagline: "Want to be" A Geophysicist 
+tagline: Want to be a Geophysicist 
 about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: Yanchong_Li@hotmail.com # Add your Email address
 phone: None # Add your Phone number
-website: lyc11776611.github.io/ # Add your website, do not add http://
+website: lyc11776611.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: lyc11776611 # Add your Github handle
 twitter: 'None' # Add your Twitter handle
