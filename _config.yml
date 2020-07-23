@@ -11,10 +11,12 @@ blog_theme: dark # Or use dark
 # Profile information
 name: 李衍春菇菌！ (Yanchong Li)
 tagline: Want to be a good Geophysicist! 
-about-description: This page is built for the purposes of spreading my knowledge (little but helps if I speak out, haha) and learning more systematically. 
- ♪(^∇^*) 
-  Let's see how far this blog can go anyway. 
-  I was graduated from Wuhan University, China, as a BS of geophysics and am now striving for a PhD degree in University of Illinois at Urbana-Champaign. # Add Discription
+about-description: "I was graduated from Wuhan University, China, as a BS of geophysics and am now striving for a PhD degree in University of Illinois at Urbana-Champaign.\
+I am very interested in geoscience problems, especially for large scale geodynamic, earthquakes and seismological problems. I am also in great fond of playing music, running, programming and great food! And COFFEE!!! Ahhhh\
+This page is built for the purposes of spreading my knowledge (little but helps if I speak out, haha) and learning more systematically. \
+ -♪(^∇^*)- \
+Let's see how far this blog can go anyway."
+ # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
