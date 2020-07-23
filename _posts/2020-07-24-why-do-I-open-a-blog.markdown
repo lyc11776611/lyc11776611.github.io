@@ -16,20 +16,16 @@ It just feels like a long time ago when I really get in touch with blogs.<br/> K
 $$ E=MC^2 $$
 
 Placed here is one of my favorite quote:
-/在这放上哦最喜欢的话：
+/在这放上我最喜欢的话：
 
-<font size=5><center>
->The currents before is ever-changing. <br/>
+
+><center>The currents before is ever-changing. <br/>
 >We must adapt, press forward, if we are to see our journey's end.<br/>
 >It is the nature of humankind to push itself toward the horizon.<br/>
 >We test our limit;<br/>
 >We face our fears;<br/>
 >We rise to the challenge.<br/>
->And become something greater than ourselves.<br/><br/>
-</font>
-<font size=6>
->Civilization<br/>
-</center></font>
+>And become something greater than ourselves.<br/><br/>——Civilization<br/></center>
 
 
 <center><br/>In this everchanging society, I must force myself to think: <br/>How should humanity develop? What can I do for this development? And how can I do this in highest efficiency? <br/> Every time I remind myself of those beautiful futures human can have, I feels the eager and passions inside my mind. I really hope that my own effort will be indispensable for the development of humanity! Only through contributing myself to a greater cause can I really fulfill my passions, and to become something great in our history.</center>
